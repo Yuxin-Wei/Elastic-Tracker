@@ -1,0 +1,6 @@
+<launch>
+  <test test-name="test_visibility_ray"
+        pkg="traj_opt"
+        type="test_visibility_ray"
+        time-limit="60.0"/>
+</launch>
