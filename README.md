@@ -31,9 +31,7 @@ roslaunch planning simulation1.launch
 ```
 ./sh_utils/pub_triger.sh
 ```
-<p align="center">
-    <img src="figs/sim1.gif" width="500"/>
-</p>
+
 
 ### Differentiable ray-transmittance visibility
 
@@ -72,9 +70,6 @@ roslaunch planning simulation2.launch
 
 `drone0` uses `visibility/model=legacy`; `drone1` uses `visibility/model=ray`.
 
-<p align="center">
-    <img src="figs/sim2.gif" width="500"/>
-</p>
 
 ## 2. Simulation of Aerial Landing
 
@@ -88,9 +83,6 @@ roslaunch planning simulation_landing.launch
 ```
 ./sh_utils/land_triger.sh
 ```
-<p align="center">
-    <img src="figs/sim_landing.gif" width="500"/>
-</p>
 
 ## 3. Acknowledgement
 We use [**MINCO**](https://github.com/ZJU-FAST-Lab/GCOPTER) as our trajectory representation.
