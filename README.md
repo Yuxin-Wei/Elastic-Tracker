@@ -1,18 +1,7 @@
-# Elastic-Tracker
+# BF-Tracker
 
 ## 0. Overview
-**Elastic-Tracker** is a flexible trajectory planning framework that can deal with challenging tracking tasks with guaranteed safety and visibility.
 
-**Authors**: Jialin Ji, Neng Pan and [Fei Gao](https://ustfei.com/) from the [ZJU Fast Lab](http://zju-fast.com/). 
-
-**Paper**: [Elastic Tracker: A Spatio-temporal Trajectory Planner Flexible Aerial Tracking](https://arxiv.org/abs/2109.07111), Jialin Ji, Neng Pan, Chao Xu, Fei Gao, Accepted in IEEE International Conference on Robotics and Automation (__ICRA 2022__).
-
-**Video Links**: [youtube](https://www.youtube.com/watch?v=G5taHOpAZj8) or [bilibili](https://www.bilibili.com/video/BV1o44y1b7wC)
-<a href="https://www.youtube.com/watch?v=G5taHOpAZj8" target="blank">
-  <p align="center">
-    <img src="figs/cover.png" width="500"/>
-  </p>
-</a>
 
 ## 1. Simulation of Aerial Tracking 
 
